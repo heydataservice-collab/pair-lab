@@ -1,0 +1,13 @@
+{
+  "record_id": "pb-000004",
+  "phase": "retrieve",
+  "metric": "variance",
+  "value": 11.3107,
+  "sample_size": 1565,
+  "digest": "29430f4a0d0ce2bb218f4cccb9330918",
+  "window": {
+    "start": "2026-12-22",
+    "span_hours": 24
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}

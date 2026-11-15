@@ -1,0 +1,13 @@
+{
+  "record_id": "pb-000010",
+  "phase": "index",
+  "metric": "cardinality",
+  "value": 51.8882,
+  "sample_size": 652,
+  "digest": "423317b3f61f64285a654258e35db400",
+  "window": {
+    "start": "2026-07-11",
+    "span_hours": 1
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
